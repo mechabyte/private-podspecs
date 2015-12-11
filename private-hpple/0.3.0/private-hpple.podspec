@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage     = "http://topfunky.com"
   s.license      = 'MIT'
   s.author       = "topfunky"
-  s.platform     = :ios, '7.0'
+  s.platform     = :tvos, '9.0'
   s.source       = { :git => "https://github.com/danylokostyshyn/hpple.git", :tag => s.version.to_s }
   s.source_files  = 'Pod/Classes', 'Pod/Classes/**/*.{h,m}'
   s.ios.libraries = 'xml2'

@@ -8,7 +8,8 @@
         "vendored_frameworks": "libtorrent.framework"
     },
     "platforms": {
-        "ios": "8.0"
+        "ios": "9.0",
+        "tvos": "9.0"
     },
     "dependency": [
         "boost"

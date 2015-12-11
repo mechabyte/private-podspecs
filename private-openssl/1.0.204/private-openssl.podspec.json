@@ -4,11 +4,11 @@
     "source": {
         "http": "http://kostyshyn.org/files/libs/openssl-1_0_2d.zip"
     },
-    "ios": {
+    "tvos": {
         "vendored_frameworks": "openssl.framework"
     },
     "platforms": {
-        "ios": "8.0"
+        "ios": "9.0"
     },
     "frameworks": [
     ],
