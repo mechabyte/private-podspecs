@@ -7,8 +7,12 @@
     "ios": {
         "vendored_frameworks": "libtorrent.framework"
     },
+    "tvos": {
+        "vendored_frameworks": "libtorrent.framework"
+    },
     "platforms": {
-        "ios": "8.0"
+        "ios": "8.0",
+        "tvos":"9.0"
     },
     "dependency": [
         "boost"

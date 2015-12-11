@@ -4,6 +4,9 @@
     "source": {
         "http": "http://kostyshyn.org/files/libs/libtorrent_1_0_6.zip"
     },
+    "tvos": {
+        "vendored_frameworks": "libtorrent.framework"
+    },
     "ios": {
         "vendored_frameworks": "libtorrent.framework"
     },

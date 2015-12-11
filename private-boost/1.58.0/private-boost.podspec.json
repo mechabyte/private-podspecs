@@ -4,6 +4,9 @@
     "source": {
         "http": "http://kostyshyn.org/files/libs/boost_1_58_0.zip"
     },
+    "tvos": {
+        "vendored_frameworks": "boost.framework"
+    },
     "ios": {
         "vendored_frameworks": "boost.framework"
     },

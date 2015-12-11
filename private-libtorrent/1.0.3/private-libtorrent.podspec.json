@@ -4,11 +4,15 @@
     "source": {
         "http": "http://kostyshyn.org/files/libs/libtorrent_1_0_3.zip"
     },
+    "tvos": {
+        "vendored_frameworks": "libtorrent.framework"
+    },
     "ios": {
         "vendored_frameworks": "libtorrent.framework"
     },
     "platforms": {
-        "ios": "8.0"
+        "ios": "8.0",
+        "tvos":"9.0"
     },
     "dependency": [
         "boost"

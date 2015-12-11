@@ -12,6 +12,9 @@
     "source": {
         "http": "http://nightlies.videolan.org/build/ios/MobileVLCKit-UniversalBinary-20150406-0541.zip"
     },
+    "ios": {
+        "vendored_frameworks": "build/MobileVLCKit.framework"
+    },
     "tvos": {
         "vendored_frameworks": "build/MobileVLCKit.framework"
     },
