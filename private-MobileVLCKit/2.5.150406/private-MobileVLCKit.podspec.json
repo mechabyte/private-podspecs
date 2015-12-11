@@ -10,7 +10,7 @@
         }
     ],
     "source": {
-        "http": "http://nightlies.videolan.org/build/ios/MobileVLCKit-UniversalBinary-20150406-0541.zip"
+        "http": "http://nightlies.videolan.org/build/ios/MobileVLCKit-UniversalBinary-20151210-0543.zip"
     },
     "ios": {
         "vendored_frameworks": "build/MobileVLCKit.framework"
